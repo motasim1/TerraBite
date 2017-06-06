@@ -1,0 +1,15 @@
+{
+  "name": "terrabite",
+  "version": "1.0.0",
+  "description": "An awesome bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TerraBite-Development-Team/TerraBite/"
+  },
+  "author": "motasim#4036, Cringy Adam#4611, oskikiboy#1133, Blackberry pi#6618, haxmat#2439",
+  "license": "ISC"
+}
