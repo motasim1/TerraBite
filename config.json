@@ -1,3 +1,10 @@
 {
-
+  "prefix" : "",
+  "token" : "",
+  "logchannel" : "",
+  "mod_role" : "",
+  "admin_role" : "",
+  "developers" : [
+    ""
+  ]
 }
